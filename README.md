@@ -1,5 +1,5 @@
 # 💫 About Me:
-System designer building AI-powered automation, interactive platforms, and scalable systems I build ambitious digital systems that just work. I’m Tony — I create SaaS platforms, automation workflows, marketplaces, AI agents, and scalable backend systems. I take full ownership of my projects, working hands-on with precision, clarity, and discipline.
+I build ambitious digital systems that just work. I’m Tony — I create SaaS platforms, automation workflows, marketplaces, AI agents, and scalable backend systems. I take full ownership of my projects, working hands-on with precision, clarity, and discipline.
 
 I specialize in designing robust platforms, automating business processes, developing scalable backend and database systems, and producing thorough technical documentation. I also ensure operational reliability and continuity, integrating the right tools and methods into workflows that deliver measurable results.
 
